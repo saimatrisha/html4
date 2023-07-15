@@ -1,0 +1,48 @@
+.header{
+	height: 90px;
+	background-color: purple;
+	border: 10px solid hotpink;
+}
+
+.container{
+	overflow: hidden;
+	border: 10px solid deeppink;
+}
+.blog{
+	float: left;
+	width: 70%;
+	height: 170px;
+	background-color: hotpink;
+}
+.contact{
+	float: right;
+	width: 30%;
+	height: 170px;
+	background-color: pink;
+	border-left: 5px solid deeppink;
+	box-sizing: border-box;
+}
+.wrapper{
+	overflow: hidden;
+	border: 10px solid pink;
+}
+.item{
+	float: left;
+	width: 33.33%;
+	height: 190px;
+
+}
+.purple{
+	background-color: purple;
+}
+.hotpink{
+	background-color: hotpink;
+}
+.deeppink{
+	background-color: deeppink;
+}
+.footer{
+	height: 80px;
+	background-color: hotpink;
+	border: 10px solid purple;
+}
